@@ -1,5 +1,5 @@
 const repository = () => {
-  console.log('repository before error');
+  console.log('repository before error2');
   // console.log('repository after error');
   throw {
     message: 'This is my error message',
